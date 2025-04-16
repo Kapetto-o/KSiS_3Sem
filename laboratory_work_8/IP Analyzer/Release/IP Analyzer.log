@@ -1,0 +1,25 @@
+﻿Сборка начата 21.12.2024 12:42:22.
+Уровень детализации журнала: Normal.     1>Проект "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\IP Analyzer\IP Analyzer.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Release\IP Analyzer.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Release\IP Analyzer.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "IP Analyzer.cpp"
+         IP Analyzer.cpp
+       Link:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\Release\IP Analyzer.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\Release\IP Analyzer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\IP Analyzer.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\Release\IP Analyzer.lib" /MACHINE:X86 /SAFESEH "Release\IP Analyzer.obj"
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\Release\IP Analyzer.exe"
+     1>Сборка проекта "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\IP Analyzer\IP Analyzer.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\IP Analyzer\IP Analyzer.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_8\Release\IP Analyzer.exe"
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:01.72

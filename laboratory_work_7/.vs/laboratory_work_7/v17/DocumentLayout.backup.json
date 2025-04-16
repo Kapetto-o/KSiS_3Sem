@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\laboratory_work_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B8E53F-6E6E-487A-B474-A38F375B1985}|EchoRequest\\EchoRequest.vcxproj|D:\\GitHub\\BSTU\\course_2\\KSiS_3\\laboratory_work_7\\EchoRequest\\EchoRequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4B8E53F-6E6E-487A-B474-A38F375B1985}|EchoRequest\\EchoRequest.vcxproj|solutionrelative:EchoRequest\\EchoRequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EchoRequest.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\laboratory_work_7\\EchoRequest\\EchoRequest.cpp",
+              "RelativeDocumentMoniker": "EchoRequest\\EchoRequest.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\laboratory_work_7\\EchoRequest\\EchoRequest.cpp",
+              "RelativeToolTip": "EchoRequest\\EchoRequest.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwJYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T12:21:05.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

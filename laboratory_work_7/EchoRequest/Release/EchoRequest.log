@@ -1,0 +1,73 @@
+﻿Сборка начата 23.11.2024 02:42:57.
+Уровень детализации журнала: Normal.     1>Проект "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\Release\".
+         Создание каталога "Release\EchoRequest.tlog\".
+       InitializeBuildStatus:
+         Создание "Release\EchoRequest.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Release\EchoRequest.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt EchoRequest.cpp
+         EchoRequest.cpp
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(12,9): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(173,9):
+             см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(13,9): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(174,9):
+             см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(14,9): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(175,9):
+             см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(15,9): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(176,9):
+             см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(16,9): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(181,9):
+             см. предыдущее определение "IP_REQ_TIMED_OUT"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(17,9): warning C4005: IP_BAD_REQ: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(182,9):
+             см. предыдущее определение "IP_BAD_REQ"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(18,9): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(183,9):
+             см. предыдущее определение "IP_BAD_ROUTE"
+         
+     1>D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(19,9): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(184,9):
+             см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+         
+       Link:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\Release\EchoRequest.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\Release\EchoRequest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\EchoRequest.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\Release\EchoRequest.lib" /MACHINE:X86 /SAFESEH Release\EchoRequest.obj
+         Создание кода
+         Previous IPDB not found, fall back to full compilation.
+         All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         EchoRequest.vcxproj -> D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\Release\EchoRequest.exe
+       FinalizeBuildStatus:
+         Файл "Release\EchoRequest.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\EchoRequest.tlog\EchoRequest.lastbuildstate".
+     1>Сборка проекта "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(12,9): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(13,9): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(14,9): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(15,9): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(16,9): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(17,9): warning C4005: IP_BAD_REQ: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(18,9): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+         D:\GitHub\BSTU\course_2\KSiS_3\laboratory_work_7\EchoRequest\EchoRequest.cpp(19,9): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+
+    Предупреждений: 8
+    Ошибок: 0
+
+Прошло времени 00:00:06.78

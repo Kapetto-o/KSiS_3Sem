@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B3A05-8F69-4B3C-8363-2667A3BA7DC3}|Exam\\Exam.vcxproj|D:\\GitHub\\BSTU\\course_2\\KSiS_3\\Exam\\Exam\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E57B3A05-8F69-4B3C-8363-2667A3BA7DC3}|Exam\\Exam.vcxproj|solutionrelative:Exam\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\Exam\\Exam\\Exam.cpp",
+              "RelativeDocumentMoniker": "Exam\\Exam.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KSiS_3\\Exam\\Exam\\Exam.cpp",
+              "RelativeToolTip": "Exam\\Exam.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T05:29:41.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
